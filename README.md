@@ -2,7 +2,6 @@
 <h2 align="center"><img src= "https://github.com/dvurukaya/README.md/assets/127424944/e1d6c7d1-625d-4a6d-ab75-1cea38a7bf4f" width='700'></h2>
 <div align="center">
     <p><img src="https://github.com/dvurukaya/dvurukaya/assets/127424944/79da0290-bf3e-46b9-a2be-ab40a037c787"></p>
-    <img src ="https://64.media.tumblr.com/3febc8bb6f8868bff84af293f9d8e3ae/069ad3bd06f6fa24-e4/s500x750/89e54bf898db55754a9bae49be4f8832aaf92425.gifv" width='800'>
 </div>
 <div align="center">
     <p> :cherries: Currently I'm programming in C#, practicing by doing different tasks and projects. :cherries:</p>
