@@ -18,6 +18,9 @@
 
 <div>
     <p><img src ="https://www.codewars.com/users/dvurukaya/badges/small"></p>
+    <a href="https://github.com/dvurukaya/leetcode-stats">
+    <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=dvurukaya&theme=dark" width="300"/>
+    </a>
 </div>
 
 <div id="imageButtom" align='center'>
