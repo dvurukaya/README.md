@@ -2,8 +2,8 @@
 <div>
     <p><img src ="https://www.codewars.com/users/dvurukaya/badges/small"></p>
     <a href="https://github.com/dvurukaya/leetcode-stats">
-    <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=dvurukaya&theme=dark" width="300"/>
-    </a>
+    <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/Dvurukaya?theme=dark&font=PT%20Serif&ext=activity" width="300"/>
+    </a> 
 </div>
 
 <div id="imageButtom" align='center'>
